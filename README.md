@@ -22,11 +22,12 @@
 - Dart
 - Flutter
 
-### 개발 팀원 (Flutter)
+### 팀원
 
 - [yjyoon-dev](https://github.com/yjyoon-dev)
 - [wlwl1011](https://github.com/wlwl1011)
 - [Eunhee-JJ](https://github.com/Eunhee-JJ)
+- 이주영(디자이너)
 
 <br>
 
